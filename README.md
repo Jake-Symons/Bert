@@ -1,5 +1,7 @@
-# Bert
+#Viscount Botty
 
-My Guy.
+I'm Overlord Jake, and this is Viscount Botty, a trusty bot I can depend on to mointor my streams, reply when I'm away and make the chat interactive for y'all.
 
-Doesn't exist yet but this is a bot that will hopefully make my life on the Stack Exchange sites eaiser but notifying me of posts to edit and thing's I can do. I'll see where there isn't a bot that already covers what Ineed and then I'll give it those features.
+This bot is currently under development. I'm looking to pack as much into Viscount Botty as possible so that my viewers can have the banter and alive chat that they would be expecting.
+
+So come abopar
